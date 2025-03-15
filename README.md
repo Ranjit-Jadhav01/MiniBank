@@ -1,41 +1,20 @@
-# MiniBank
-Here's a description of a **Mini Bank Application in Java**:
+### Mini Bank Application (Java) - Description
 
----
+The **Mini Bank Application** is a Java-based banking system designed to demonstrate key programming concepts while providing essential banking functionalities. It allows users to create and manage bank accounts efficiently.
 
-### **Mini Bank Application (Java) - Description**  
+#### Features:
+- **Create Account** – Open a new bank account with a unique account number.
+- **Delete Account** – Remove an account from the system.
+- **Credit Amount** – Deposit money into an account.
+- **Debit Amount** – Withdraw money if sufficient balance is available.
+- **Transaction History** – View past transactions, including deposits and withdrawals.
+- **Check Username** – Retrieve account holder details by account number.
 
-The **Mini Bank Application** is a console-based banking system built using Java, allowing users to perform essential banking operations. It provides a simple and user-friendly interface to manage bank accounts efficiently.
+#### Implementation Based on Course Outcomes:
+- **CO1 - Basic Syntactical Constructs in Java** – Utilizes fundamental Java constructs such as loops, conditionals, and functions.
+- **CO2 - Inheritance, Interface, and Packages** – Implements OOP principles with inheritance, interfaces, and modular design using packages.
+- **CO3 - Exception Handling and Multithreading** – Includes exception handling for invalid transactions and multithreading for concurrent operations.
+- **CO4 - Event Handling using AWT & Swing Components** – Uses AWT and Swing for a graphical user interface (GUI) with interactive buttons and forms.
+- **CO5 - Basics of Network Programming** – Implements basic networking features for potential remote banking operations.
+- **CO6 - Interacting with Database** – Connects to a database using JDBC for persistent data storage and retrieval.
 
-#### **Features**:  
-1. **Create Account** – Allows users to create a new bank account by providing essential details such as name, account number, and initial balance.  
-2. **Delete Account** – Users can delete their accounts if they no longer wish to use the banking system.  
-3. **Credit Amount** – Depositing money into an account increases the balance.  
-4. **Debit Amount** – Withdrawing money from an account decreases the balance, ensuring sufficient funds are available.  
-5. **Transaction History** – Users can view their past transactions, including deposits and withdrawals.  
-6. **Check Username** – Retrieve the account holder's name based on the account number.  
-
-#### **Implementation Details**:  
-Here's a description of a **Mini Bank Application in Java**:
-
----
-
-### **Mini Bank Application (Java) - Description**  
-
-The **Mini Bank Application** is a console-based banking system built using Java, allowing users to perform essential banking operations. It provides a simple and user-friendly interface to manage bank accounts efficiently.
-
-#### **Features**:  
-1. **Create Account** – Allows users to create a new bank account by providing essential details such as name, account number, and initial balance.  
-2. **Delete Account** – Users can delete their accounts if they no longer wish to use the banking system.  
-3. **Credit Amount** – Depositing money into an account increases the balance.  
-4. **Debit Amount** – Withdrawing money from an account decreases the balance, ensuring sufficient funds are available.  
-5. **Transaction History** – Users can view their past transactions, including deposits and withdrawals.  
-6. **Check Username** – Retrieve the account holder's name based on the account number.  
-
-#### **Implementation Details**:  
-CO1 - Basic Syntactical Constructs in Java 
-CO2 - Inheritance, Interface and Packages 
-CO3 - Exception Handling and Multithreading 
-CO4 - Event handling using Abstract Window Toolkit (AWT) & Swings Components 
-CO5 - Basics of Network Programming 
-CO6 - Interacting with Database 
